@@ -1,0 +1,2 @@
+evernote filter=lfs diff=lfs merge=lfs -text
+processon filter=lfs diff=lfs merge=lfs -text
